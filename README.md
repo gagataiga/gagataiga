@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Welcome to my github page 🤝
 
 <!--
 **gagataiga/gagataiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| key | value |
+| ---- | ---- |
+| Name | Taiga Shiga |
+| Linked-in | www.linkedin.com/in/taiga-shiga | 
+| Medium | https://medium.com/@gaitatg97 | 
+| Programming language | Javascript, Typescript, Python |
+| language | Japanese, English, German |
+
+### About me 
+Hi I am Taiga Shiga. I am a Software engineer graduated from [Code Chrysalis](https://www.codechrysalis.io/) <br>
+I am currently learing Javascript and Typescript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagataiga
+)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagataiga&show_icons=true&theme=transparent)
+
