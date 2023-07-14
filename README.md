@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 
 ### About me 
 Hi I am Taiga Shiga. I am a Software engineer graduated from [Code Chrysalis](https://www.codechrysalis.io/) <br>
-I am currently learing Javascript and Typescript
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagataiga
-)](https://github.com/anuraghazra/github-readme-stats)
+I am currently learing Javascript and Typescript.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagataiga&show_icons=true&theme=transparent)
 
