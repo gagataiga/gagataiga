@@ -3,8 +3,6 @@
 <!--
 **gagataiga/gagataiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,7 +19,10 @@ Here are some ideas to get you started:
 | Linked-in | www.linkedin.com/in/taiga-shiga | 
 | Medium | https://medium.com/@gaitatg97 | 
 | Programming language | Javascript, Typescript, Python |
-| language | Japanese, English, German |
+| Frontend | React, Next.js |
+| Backend | Node.js |
+| Database | PostgreSQL |
+| Language | Japanese, English, German |
 
 ### About me 
 Hi I am Taiga Shiga. I am a Software engineer graduated from [Code Chrysalis](https://www.codechrysalis.io/) <br>
