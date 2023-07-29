@@ -19,7 +19,7 @@
 | Linked-in | www.linkedin.com/in/taiga-shiga | 
 | Medium | https://medium.com/@gaitatg97 | 
 | Programming language | Javascript, Typescript, Python |
-| Frontend | React, Next.js |
+| Frontend | React, Next.js, HTML, CSS|
 | Backend | Node.js |
 | Database | PostgreSQL |
 | Language | Japanese, English, German |
