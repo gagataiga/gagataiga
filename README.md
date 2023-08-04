@@ -17,16 +17,14 @@
 | ---- | ---- |
 | Name | Taiga Shiga |
 | Linked-in | www.linkedin.com/in/taiga-shiga | 
-| Medium | https://medium.com/@gaitatg97 | 
-| Programming language | Javascript, Typescript, Python |
+| Programming languages | JavaScript, TypeScript, Python |
 | Frontend | React, Next.js, HTML, CSS|
 | Backend | Node.js |
 | Database | PostgreSQL |
 | Language | Japanese, English, German |
 
 ### About me 
-Hi I am Taiga Shiga. I am a Software engineer graduated from [Code Chrysalis](https://www.codechrysalis.io/) <br>
-I am currently learing Javascript and Typescript.  
+Hi I am Taiga Shiga. I am a Software Engineer. Please free to look my two current projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagataiga&show_icons=true&theme=transparent)
 
