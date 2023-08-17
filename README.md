@@ -21,7 +21,7 @@
 | Frontend | React, Next.js, HTML, CSS|
 | Backend | Node.js |
 | Database | PostgreSQL |
-| Language | Japanese, English, German |
+| Language | Japanese, English |
 
 ### About me 
 Hi I am Taiga Shiga. I am a Software Engineer. Please free to look my two current projects.
