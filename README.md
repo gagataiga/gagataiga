@@ -24,7 +24,8 @@
 | Language | Japanese, English |
 
 ### About me 
-Hi I am Taiga Shiga. I am a Software Engineer. Please free to look my two current projects.
+Hi I am Taiga Shiga and am a Software Engineer. Please free to look my two current projects.
+Currently, I am working at Mamoru as an intern full-stack engineer. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagataiga&show_icons=true&theme=transparent)
 
