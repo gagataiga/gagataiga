@@ -22,10 +22,12 @@
 | Backend | Node.js |
 | Database | PostgreSQL |
 | Language | Japanese, English |
+| Currently Learning | PHP, Laravel, React Native |  
 
 ### About me 
 Hi Everyone, I am Taiga Shiga, and am a Software Engineer. 
-Currently, I am working at Mamoru as an intern full-stack engineer. 
+Currently, I am working at Sustainability Page as an intern full-stack engineer. 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagataiga&show_icons=true&theme=transparent)
 
