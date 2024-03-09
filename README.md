@@ -30,5 +30,3 @@ Currently, I am working at Sustainability Page as an intern full-stack engineer.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagataiga&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagataiga&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
